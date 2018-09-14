@@ -6,3 +6,5 @@ Decision Tree,
 Naive Bayes,
 Svm,
 Gradient Descent
+
+It finds out the classifier which best classifies the data
